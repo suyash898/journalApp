@@ -1,0 +1,12 @@
+<configuration>
+
+    <appender name = "myConsoleAppender">
+
+    </appender>
+
+    <appender name = "myFileAppender">
+
+    </appender>
+
+
+</configuration>
